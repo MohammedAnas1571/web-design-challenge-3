@@ -6,6 +6,9 @@ import { Hero } from './component/Hero'
 import Products from './component/Products'
 import Banner from './component/Banner'
 import BannerText from './component/BannerText'
+import Blogs from './component/Blog'
+import FAQ from './component/FAQ'
+import Footer from './component/Footer'
 
 function App() {
   
@@ -17,6 +20,9 @@ function App() {
      <Products/>
      <Banner/>
      <BannerText/>
+      <Blogs/>
+      <FAQ/>
+      <Footer/>
     </main>
     </BrowserRouter>
        
